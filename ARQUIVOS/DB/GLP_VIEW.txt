@@ -1,0 +1,6 @@
+SELECT
+  *
+FROM
+  `basedosdados.br_anp_precos_combustiveis.microdados`
+WHERE
+  produto = "Glp"
