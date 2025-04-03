@@ -1,5 +1,5 @@
 # Comportamento do Preço do GLP
-Este repositório contém os arquivos utilizados no estudo desenvolvido no Power BI para o meu Trabalho de Conclusão de Curso (TCC) no MBA em Data Science & Analytics, utilizando dados públicos e atualizados no datalake do site [basedosdados.org](https://basedosdados.org/dataset/6ea3e28a-42be-401a-a066-ad87ca931e69?table=3a7cb29a-0bdf-4f44-bab1-d27872e565ff).
+Este repositório contém os arquivos utilizados no estudo desenvolvido no Power BI para o meu Trabalho de Conclusão de Curso (TCC) no MBA em Data Science & Analytics, utilizando dados públicos e atualizados no data warehouse do site [basedosdados.org](https://basedosdados.org/dataset/6ea3e28a-42be-401a-a066-ad87ca931e69?table=3a7cb29a-0bdf-4f44-bab1-d27872e565ff).
 <br>
 Foi desenvolvida toda a estrutura de Business Intelligence (BI), desde o levantamento de requisitos até a conexão com a fonte de dados via BigQuery, além do desenvolvimento e publicação do painel final.
 
